@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 302a37f2f0673d04c91146a6415fbba0
+timeCreated: 1485941258
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arciform Sans cyr-lat
+  fontNames:
+  - Arciform Sans cyr-lat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

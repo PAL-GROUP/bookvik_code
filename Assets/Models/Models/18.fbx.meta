@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 5a7336861e8809344bd15e38b9724693
+timeCreated: 1492762785
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: kurtka_lera:Bege_Group
+    100004: kurtka_lera:Clavicle_L
+    100006: kurtka_lera:Clavicle_R
+    100008: kurtka_lera:Elbow_L
+    100010: kurtka_lera:Elbow_R
+    100012: kurtka_lera:FACE_CONTROLS
+    100014: kurtka_lera:Geometry1
+    100016: kurtka_lera:Heads
+    100018: kurtka_lera:Hip_L
+    100020: kurtka_lera:Hip_R
+    100022: kurtka_lera:Index01_L
+    100024: kurtka_lera:Index02_L
+    100026: kurtka_lera:Jaw
+    100028: kurtka_lera:joint10
+    100030: kurtka_lera:joint10 1
+    100032: kurtka_lera:joint11
+    100034: kurtka_lera:joint11 1
+    100036: kurtka_lera:joint12
+    100038: kurtka_lera:joint12 1
+    100040: kurtka_lera:joint14
+    100042: kurtka_lera:joint15
+    100044: kurtka_lera:joint16
+    100046: kurtka_lera:joint17
+    100048: kurtka_lera:joint18
+    100050: kurtka_lera:joint19
+    100052: kurtka_lera:joint20
+    100054: kurtka_lera:joint3
+    100056: kurtka_lera:joint3 1
+    100058: kurtka_lera:joint36
+    100060: kurtka_lera:joint36 1
+    100062: kurtka_lera:joint4
+    100064: kurtka_lera:joint4 1
+    100066: kurtka_lera:joint41
+    100068: kurtka_lera:joint41 1
+    100070: kurtka_lera:joint42
+    100072: kurtka_lera:joint42 1
+    100074: kurtka_lera:joint43
+    100076: kurtka_lera:joint43 1
+    100078: kurtka_lera:joint45
+    100080: kurtka_lera:joint46
+    100082: kurtka_lera:joint47
+    100084: kurtka_lera:joint47 1
+    100086: kurtka_lera:joint48
+    100088: kurtka_lera:joint48 1
+    100090: kurtka_lera:joint49
+    100092: kurtka_lera:joint49 1
+    100094: kurtka_lera:joint5
+    100096: kurtka_lera:joint5 1
+    100098: kurtka_lera:joint50
+    100100: kurtka_lera:joint50 1
+    100102: kurtka_lera:joint51
+    100104: kurtka_lera:joint51 1
+    100106: kurtka_lera:joint52
+    100108: kurtka_lera:joint52 1
+    100110: kurtka_lera:joint53
+    100112: kurtka_lera:joint53 1
+    100114: kurtka_lera:joint54
+    100116: kurtka_lera:joint54 1
+    100118: kurtka_lera:joint55
+    100120: kurtka_lera:joint55 1
+    100122: kurtka_lera:joint56
+    100124: kurtka_lera:joint56 1
+    100126: kurtka_lera:joint59
+    100128: kurtka_lera:joint6
+    100130: kurtka_lera:joint6 1
+    100132: kurtka_lera:joint60
+    100134: kurtka_lera:joint60 1
+    100136: kurtka_lera:joint61
+    100138: kurtka_lera:joint7
+    100140: kurtka_lera:joint7 1
+    100142: kurtka_lera:joint7 2
+    100144: kurtka_lera:joint7 3
+    100146: kurtka_lera:joint7 4
+    100148: kurtka_lera:joint7 5
+    100150: kurtka_lera:joint7 6
+    100152: kurtka_lera:joint7 7
+    100154: kurtka_lera:joint7 8
+    100156: kurtka_lera:joint7 9
+    100158: kurtka_lera:joint8
+    100160: kurtka_lera:joint8 1
+    100162: kurtka_lera:joint8 2
+    100164: kurtka_lera:joint8 3
+    100166: kurtka_lera:joint8 4
+    100168: kurtka_lera:joint8 5
+    100170: kurtka_lera:joint8 6
+    100172: kurtka_lera:joint8 7
+    100174: kurtka_lera:joint8 8
+    100176: kurtka_lera:joint8 9
+    100178: kurtka_lera:joint9
+    100180: kurtka_lera:joint9 1
+    100182: kurtka_lera:Krilo_L_02
+    100184: kurtka_lera:Krilo_L_03
+    100186: kurtka_lera:Krilo_L_04
+    100188: kurtka_lera:Krilo_L_05
+    100190: kurtka_lera:Krilo_R_02
+    100192: kurtka_lera:Krilo_R_03
+    100194: kurtka_lera:Krilo_R_04
+    100196: kurtka_lera:Krilo_R_05
+    100198: kurtka_lera:MASTER
+    100200: kurtka_lera:Mounth_Fff
+    100202: kurtka_lera:nurbsCircle10
+    100204: kurtka_lera:nurbsCircle11
+    100206: kurtka_lera:nurbsCircle12
+    100208: kurtka_lera:nurbsCircle22
+    100210: kurtka_lera:nurbsCircle24
+    100212: kurtka_lera:nurbsCircle25
+    100214: kurtka_lera:nurbsCircle26
+    100216: kurtka_lera:nurbsCircle27
+    100218: kurtka_lera:nurbsCircle28
+    100220: kurtka_lera:nurbsCircle29
+    100222: kurtka_lera:nurbsCircle32
+    100224: kurtka_lera:nurbsCircle34
+    100226: kurtka_lera:nurbsCircle35
+    100228: kurtka_lera:nurbsCircle36
+    100230: kurtka_lera:nurbsCircle38
+    100232: kurtka_lera:nurbsCircle40
+    100234: kurtka_lera:nurbsCircle42
+    100236: kurtka_lera:nurbsCircle9
+    100238: kurtka_lera:nurbsToPoly1
+    100240: kurtka_lera:nurbsToPoly2
+    100242: kurtka_lera:nurbsToPoly3
+    100244: kurtka_lera:nurbsToPoly4
+    100246: kurtka_lera:nurbsToPoly5
+    100248: kurtka_lera:nurbsToPoly6
+    100250: kurtka_lera:pasted__polySurface235
+    100252: kurtka_lera:pasted__polySurface236
+    100254: kurtka_lera:pasted__polySurface237
+    100256: kurtka_lera:pasted__polySurface434
+    100258: kurtka_lera:polySurface188
+    100260: kurtka_lera:polySurface257
+    100262: kurtka_lera:polySurface293
+    100264: kurtka_lera:polySurface307
+    100266: kurtka_lera:polySurface309
+    100268: kurtka_lera:polySurface311
+    100270: kurtka_lera:polySurface354
+    100272: kurtka_lera:polySurface355
+    100274: kurtka_lera:polySurface360
+    100276: kurtka_lera:polySurface361
+    100278: kurtka_lera:polySurface363
+    100280: kurtka_lera:Shapka_02
+    100282: kurtka_lera:Should_L
+    100284: kurtka_lera:Should_R
+    100286: kurtka_lera:Spine_Root
+    100288: kurtka_lera:Teeth1
+    100290: kurtka_lera:Uxa_L_02
+    100292: kurtka_lera:Uxa_L_03
+    100294: kurtka_lera:Uxa_L_04
+    100296: kurtka_lera:Uxa_R_02
+    100298: kurtka_lera:Uxa_R_03
+    100300: kurtka_lera:Uxa_R_04
+    100302: kurtka_lera:Xvost_02
+    100304: kurtka_lera:Xvost_03
+    100306: kurtka_lera:Xvost_04
+    100308: kurtka_lera:Xvost_05
+    400000: //RootNode
+    400002: kurtka_lera:Bege_Group
+    400004: kurtka_lera:Clavicle_L
+    400006: kurtka_lera:Clavicle_R
+    400008: kurtka_lera:Elbow_L
+    400010: kurtka_lera:Elbow_R
+    400012: kurtka_lera:FACE_CONTROLS
+    400014: kurtka_lera:Geometry1
+    400016: kurtka_lera:Heads
+    400018: kurtka_lera:Hip_L
+    400020: kurtka_lera:Hip_R
+    400022: kurtka_lera:Index01_L
+    400024: kurtka_lera:Index02_L
+    400026: kurtka_lera:Jaw
+    400028: kurtka_lera:joint10
+    400030: kurtka_lera:joint10 1
+    400032: kurtka_lera:joint11
+    400034: kurtka_lera:joint11 1
+    400036: kurtka_lera:joint12
+    400038: kurtka_lera:joint12 1
+    400040: kurtka_lera:joint14
+    400042: kurtka_lera:joint15
+    400044: kurtka_lera:joint16
+    400046: kurtka_lera:joint17
+    400048: kurtka_lera:joint18
+    400050: kurtka_lera:joint19
+    400052: kurtka_lera:joint20
+    400054: kurtka_lera:joint3
+    400056: kurtka_lera:joint3 1
+    400058: kurtka_lera:joint36
+    400060: kurtka_lera:joint36 1
+    400062: kurtka_lera:joint4
+    400064: kurtka_lera:joint4 1
+    400066: kurtka_lera:joint41
+    400068: kurtka_lera:joint41 1
+    400070: kurtka_lera:joint42
+    400072: kurtka_lera:joint42 1
+    400074: kurtka_lera:joint43
+    400076: kurtka_lera:joint43 1
+    400078: kurtka_lera:joint45
+    400080: kurtka_lera:joint46
+    400082: kurtka_lera:joint47
+    400084: kurtka_lera:joint47 1
+    400086: kurtka_lera:joint48
+    400088: kurtka_lera:joint48 1
+    400090: kurtka_lera:joint49
+    400092: kurtka_lera:joint49 1
+    400094: kurtka_lera:joint5
+    400096: kurtka_lera:joint5 1
+    400098: kurtka_lera:joint50
+    400100: kurtka_lera:joint50 1
+    400102: kurtka_lera:joint51
+    400104: kurtka_lera:joint51 1
+    400106: kurtka_lera:joint52
+    400108: kurtka_lera:joint52 1
+    400110: kurtka_lera:joint53
+    400112: kurtka_lera:joint53 1
+    400114: kurtka_lera:joint54
+    400116: kurtka_lera:joint54 1
+    400118: kurtka_lera:joint55
+    400120: kurtka_lera:joint55 1
+    400122: kurtka_lera:joint56
+    400124: kurtka_lera:joint56 1
+    400126: kurtka_lera:joint59
+    400128: kurtka_lera:joint6
+    400130: kurtka_lera:joint6 1
+    400132: kurtka_lera:joint60
+    400134: kurtka_lera:joint60 1
+    400136: kurtka_lera:joint61
+    400138: kurtka_lera:joint7
+    400140: kurtka_lera:joint7 1
+    400142: kurtka_lera:joint7 2
+    400144: kurtka_lera:joint7 3
+    400146: kurtka_lera:joint7 4
+    400148: kurtka_lera:joint7 5
+    400150: kurtka_lera:joint7 6
+    400152: kurtka_lera:joint7 7
+    400154: kurtka_lera:joint7 8
+    400156: kurtka_lera:joint7 9
+    400158: kurtka_lera:joint8
+    400160: kurtka_lera:joint8 1
+    400162: kurtka_lera:joint8 2
+    400164: kurtka_lera:joint8 3
+    400166: kurtka_lera:joint8 4
+    400168: kurtka_lera:joint8 5
+    400170: kurtka_lera:joint8 6
+    400172: kurtka_lera:joint8 7
+    400174: kurtka_lera:joint8 8
+    400176: kurtka_lera:joint8 9
+    400178: kurtka_lera:joint9
+    400180: kurtka_lera:joint9 1
+    400182: kurtka_lera:Krilo_L_02
+    400184: kurtka_lera:Krilo_L_03
+    400186: kurtka_lera:Krilo_L_04
+    400188: kurtka_lera:Krilo_L_05
+    400190: kurtka_lera:Krilo_R_02
+    400192: kurtka_lera:Krilo_R_03
+    400194: kurtka_lera:Krilo_R_04
+    400196: kurtka_lera:Krilo_R_05
+    400198: kurtka_lera:MASTER
+    400200: kurtka_lera:Mounth_Fff
+    400202: kurtka_lera:nurbsCircle10
+    400204: kurtka_lera:nurbsCircle11
+    400206: kurtka_lera:nurbsCircle12
+    400208: kurtka_lera:nurbsCircle22
+    400210: kurtka_lera:nurbsCircle24
+    400212: kurtka_lera:nurbsCircle25
+    400214: kurtka_lera:nurbsCircle26
+    400216: kurtka_lera:nurbsCircle27
+    400218: kurtka_lera:nurbsCircle28
+    400220: kurtka_lera:nurbsCircle29
+    400222: kurtka_lera:nurbsCircle32
+    400224: kurtka_lera:nurbsCircle34
+    400226: kurtka_lera:nurbsCircle35
+    400228: kurtka_lera:nurbsCircle36
+    400230: kurtka_lera:nurbsCircle38
+    400232: kurtka_lera:nurbsCircle40
+    400234: kurtka_lera:nurbsCircle42
+    400236: kurtka_lera:nurbsCircle9
+    400238: kurtka_lera:nurbsToPoly1
+    400240: kurtka_lera:nurbsToPoly2
+    400242: kurtka_lera:nurbsToPoly3
+    400244: kurtka_lera:nurbsToPoly4
+    400246: kurtka_lera:nurbsToPoly5
+    400248: kurtka_lera:nurbsToPoly6
+    400250: kurtka_lera:pasted__polySurface235
+    400252: kurtka_lera:pasted__polySurface236
+    400254: kurtka_lera:pasted__polySurface237
+    400256: kurtka_lera:pasted__polySurface434
+    400258: kurtka_lera:polySurface188
+    400260: kurtka_lera:polySurface257
+    400262: kurtka_lera:polySurface293
+    400264: kurtka_lera:polySurface307
+    400266: kurtka_lera:polySurface309
+    400268: kurtka_lera:polySurface311
+    400270: kurtka_lera:polySurface354
+    400272: kurtka_lera:polySurface355
+    400274: kurtka_lera:polySurface360
+    400276: kurtka_lera:polySurface361
+    400278: kurtka_lera:polySurface363
+    400280: kurtka_lera:Shapka_02
+    400282: kurtka_lera:Should_L
+    400284: kurtka_lera:Should_R
+    400286: kurtka_lera:Spine_Root
+    400288: kurtka_lera:Teeth1
+    400290: kurtka_lera:Uxa_L_02
+    400292: kurtka_lera:Uxa_L_03
+    400294: kurtka_lera:Uxa_L_04
+    400296: kurtka_lera:Uxa_R_02
+    400298: kurtka_lera:Uxa_R_03
+    400300: kurtka_lera:Uxa_R_04
+    400302: kurtka_lera:Xvost_02
+    400304: kurtka_lera:Xvost_03
+    400306: kurtka_lera:Xvost_04
+    400308: kurtka_lera:Xvost_05
+    4300000: kurtka_lera:pasted__polySurface235
+    4300002: kurtka_lera:pasted__polySurface236
+    4300004: kurtka_lera:pasted__polySurface237
+    4300006: kurtka_lera:nurbsToPoly4
+    4300008: kurtka_lera:nurbsToPoly5
+    4300010: kurtka_lera:nurbsToPoly6
+    4300012: kurtka_lera:nurbsToPoly1
+    4300014: kurtka_lera:nurbsToPoly2
+    4300016: kurtka_lera:nurbsToPoly3
+    4300018: kurtka_lera:polySurface188
+    4300020: kurtka_lera:polySurface257
+    4300022: kurtka_lera:polySurface363
+    4300024: kurtka_lera:polySurface309
+    4300026: kurtka_lera:polySurface307
+    4300028: kurtka_lera:polySurface293
+    4300030: kurtka_lera:polySurface311
+    4300032: kurtka_lera:polySurface355
+    4300034: kurtka_lera:polySurface354
+    4300036: kurtka_lera:polySurface360
+    4300038: kurtka_lera:pasted__polySurface434
+    4300040: kurtka_lera:polySurface361
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: kurtka_lera:nurbsToPoly1
+    13700002: kurtka_lera:nurbsToPoly2
+    13700004: kurtka_lera:nurbsToPoly3
+    13700006: kurtka_lera:nurbsToPoly4
+    13700008: kurtka_lera:nurbsToPoly5
+    13700010: kurtka_lera:nurbsToPoly6
+    13700012: kurtka_lera:pasted__polySurface235
+    13700014: kurtka_lera:pasted__polySurface236
+    13700016: kurtka_lera:pasted__polySurface237
+    13700018: kurtka_lera:pasted__polySurface434
+    13700020: kurtka_lera:polySurface188
+    13700022: kurtka_lera:polySurface257
+    13700024: kurtka_lera:polySurface293
+    13700026: kurtka_lera:polySurface307
+    13700028: kurtka_lera:polySurface309
+    13700030: kurtka_lera:polySurface311
+    13700032: kurtka_lera:polySurface354
+    13700034: kurtka_lera:polySurface355
+    13700036: kurtka_lera:polySurface360
+    13700038: kurtka_lera:polySurface361
+    13700040: kurtka_lera:polySurface363
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: e707d6a7652d1dc409a15649bab38d5f
+timeCreated: 1493118413
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bege_Group
+    100004: Clavicle_L
+    100006: Clavicle_R
+    100008: Elbow_L
+    100010: Elbow_R
+    100012: FACE_CONTROLS
+    100014: Finish_group
+    100016: Geometry1
+    100018: group
+    100020: group1
+    100022: Heads
+    100024: Hip_L
+    100026: Hip_R
+    100028: Index01_L
+    100030: Index02_L
+    100032: Jaw
+    100034: joint10
+    100036: joint10 1
+    100038: joint11
+    100040: joint11 1
+    100042: joint12
+    100044: joint12 1
+    100046: joint14
+    100048: joint15
+    100050: joint16
+    100052: joint17
+    100054: joint18
+    100056: joint19
+    100058: joint20
+    100060: joint3
+    100062: joint3 1
+    100064: joint36
+    100066: joint36 1
+    100068: joint4
+    100070: joint4 1
+    100072: joint41
+    100074: joint41 1
+    100076: joint42
+    100078: joint42 1
+    100080: joint43
+    100082: joint43 1
+    100084: joint45
+    100086: joint46
+    100088: joint47
+    100090: joint47 1
+    100092: joint48
+    100094: joint48 1
+    100096: joint49
+    100098: joint49 1
+    100100: joint5
+    100102: joint5 1
+    100104: joint50
+    100106: joint50 1
+    100108: joint51
+    100110: joint51 1
+    100112: joint52
+    100114: joint52 1
+    100116: joint53
+    100118: joint53 1
+    100120: joint54
+    100122: joint54 1
+    100124: joint55
+    100126: joint55 1
+    100128: joint56
+    100130: joint56 1
+    100132: joint59
+    100134: joint6
+    100136: joint6 1
+    100138: joint60
+    100140: joint60 1
+    100142: joint61
+    100144: joint7
+    100146: joint7 1
+    100148: joint7 2
+    100150: joint7 3
+    100152: joint7 4
+    100154: joint7 5
+    100156: joint7 6
+    100158: joint7 7
+    100160: joint7 8
+    100162: joint7 9
+    100164: joint8
+    100166: joint8 1
+    100168: joint8 2
+    100170: joint8 3
+    100172: joint8 4
+    100174: joint8 5
+    100176: joint8 6
+    100178: joint8 7
+    100180: joint8 8
+    100182: joint8 9
+    100184: joint9
+    100186: joint9 1
+    100188: Krilo_L_02
+    100190: Krilo_L_03
+    100192: Krilo_L_04
+    100194: Krilo_L_05
+    100196: Krilo_R_02
+    100198: Krilo_R_03
+    100200: Krilo_R_04
+    100202: Krilo_R_05
+    100204: MASTER
+    100206: Mounth_Fff
+    100208: nurbsCircle10
+    100210: nurbsCircle11
+    100212: nurbsCircle12
+    100214: nurbsCircle22
+    100216: nurbsCircle24
+    100218: nurbsCircle25
+    100220: nurbsCircle26
+    100222: nurbsCircle27
+    100224: nurbsCircle28
+    100226: nurbsCircle29
+    100228: nurbsCircle32
+    100230: nurbsCircle34
+    100232: nurbsCircle35
+    100234: nurbsCircle36
+    100236: nurbsCircle38
+    100238: nurbsCircle40
+    100240: nurbsCircle42
+    100242: nurbsCircle9
+    100244: nurbsToPoly1
+    100246: nurbsToPoly2
+    100248: nurbsToPoly3
+    100250: nurbsToPoly4
+    100252: nurbsToPoly5
+    100254: nurbsToPoly6
+    100256: pasted__pCube1
+    100258: pasted__pCube1 1
+    100260: pasted__pCube2
+    100262: pasted__pCube2 1
+    100264: pasted__pCube3
+    100266: pasted__pCube3 1
+    100268: pasted__pCube4
+    100270: pasted__pCube4 1
+    100272: pasted__pCube5
+    100274: pasted__pCube5 1
+    100276: pasted__pCube6
+    100278: pasted__pCube7
+    100280: pasted__pCube8
+    100282: polySurface188
+    100284: polySurface257
+    100286: polySurface293
+    100288: polySurface307
+    100290: polySurface309
+    100292: polySurface311
+    100294: polySurface354
+    100296: polySurface355
+    100298: polySurface356
+    100300: polySurface360
+    100302: polySurface361
+    100304: polySurface363
+    100306: pSphere1
+    100308: pSphere2
+    100310: pTorus1
+    100312: pTorus2
+    100314: pTorus3
+    100316: pTorus4
+    100318: pTorus5
+    100320: pTorus6
+    100322: Shapka_02
+    100324: Should_L
+    100326: Should_R
+    100328: Spine_Root
+    100330: Teeth1
+    100332: Uxa_L_02
+    100334: Uxa_L_03
+    100336: Uxa_L_04
+    100338: Uxa_R_02
+    100340: Uxa_R_03
+    100342: Uxa_R_04
+    100344: Xvost_02
+    100346: Xvost_03
+    100348: Xvost_04
+    100350: Xvost_05
+    400000: //RootNode
+    400002: Bege_Group
+    400004: Clavicle_L
+    400006: Clavicle_R
+    400008: Elbow_L
+    400010: Elbow_R
+    400012: FACE_CONTROLS
+    400014: Finish_group
+    400016: Geometry1
+    400018: group
+    400020: group1
+    400022: Heads
+    400024: Hip_L
+    400026: Hip_R
+    400028: Index01_L
+    400030: Index02_L
+    400032: Jaw
+    400034: joint10
+    400036: joint10 1
+    400038: joint11
+    400040: joint11 1
+    400042: joint12
+    400044: joint12 1
+    400046: joint14
+    400048: joint15
+    400050: joint16
+    400052: joint17
+    400054: joint18
+    400056: joint19
+    400058: joint20
+    400060: joint3
+    400062: joint3 1
+    400064: joint36
+    400066: joint36 1
+    400068: joint4
+    400070: joint4 1
+    400072: joint41
+    400074: joint41 1
+    400076: joint42
+    400078: joint42 1
+    400080: joint43
+    400082: joint43 1
+    400084: joint45
+    400086: joint46
+    400088: joint47
+    400090: joint47 1
+    400092: joint48
+    400094: joint48 1
+    400096: joint49
+    400098: joint49 1
+    400100: joint5
+    400102: joint5 1
+    400104: joint50
+    400106: joint50 1
+    400108: joint51
+    400110: joint51 1
+    400112: joint52
+    400114: joint52 1
+    400116: joint53
+    400118: joint53 1
+    400120: joint54
+    400122: joint54 1
+    400124: joint55
+    400126: joint55 1
+    400128: joint56
+    400130: joint56 1
+    400132: joint59
+    400134: joint6
+    400136: joint6 1
+    400138: joint60
+    400140: joint60 1
+    400142: joint61
+    400144: joint7
+    400146: joint7 1
+    400148: joint7 2
+    400150: joint7 3
+    400152: joint7 4
+    400154: joint7 5
+    400156: joint7 6
+    400158: joint7 7
+    400160: joint7 8
+    400162: joint7 9
+    400164: joint8
+    400166: joint8 1
+    400168: joint8 2
+    400170: joint8 3
+    400172: joint8 4
+    400174: joint8 5
+    400176: joint8 6
+    400178: joint8 7
+    400180: joint8 8
+    400182: joint8 9
+    400184: joint9
+    400186: joint9 1
+    400188: Krilo_L_02
+    400190: Krilo_L_03
+    400192: Krilo_L_04
+    400194: Krilo_L_05
+    400196: Krilo_R_02
+    400198: Krilo_R_03
+    400200: Krilo_R_04
+    400202: Krilo_R_05
+    400204: MASTER
+    400206: Mounth_Fff
+    400208: nurbsCircle10
+    400210: nurbsCircle11
+    400212: nurbsCircle12
+    400214: nurbsCircle22
+    400216: nurbsCircle24
+    400218: nurbsCircle25
+    400220: nurbsCircle26
+    400222: nurbsCircle27
+    400224: nurbsCircle28
+    400226: nurbsCircle29
+    400228: nurbsCircle32
+    400230: nurbsCircle34
+    400232: nurbsCircle35
+    400234: nurbsCircle36
+    400236: nurbsCircle38
+    400238: nurbsCircle40
+    400240: nurbsCircle42
+    400242: nurbsCircle9
+    400244: nurbsToPoly1
+    400246: nurbsToPoly2
+    400248: nurbsToPoly3
+    400250: nurbsToPoly4
+    400252: nurbsToPoly5
+    400254: nurbsToPoly6
+    400256: pasted__pCube1
+    400258: pasted__pCube1 1
+    400260: pasted__pCube2
+    400262: pasted__pCube2 1
+    400264: pasted__pCube3
+    400266: pasted__pCube3 1
+    400268: pasted__pCube4
+    400270: pasted__pCube4 1
+    400272: pasted__pCube5
+    400274: pasted__pCube5 1
+    400276: pasted__pCube6
+    400278: pasted__pCube7
+    400280: pasted__pCube8
+    400282: polySurface188
+    400284: polySurface257
+    400286: polySurface293
+    400288: polySurface307
+    400290: polySurface309
+    400292: polySurface311
+    400294: polySurface354
+    400296: polySurface355
+    400298: polySurface356
+    400300: polySurface360
+    400302: polySurface361
+    400304: polySurface363
+    400306: pSphere1
+    400308: pSphere2
+    400310: pTorus1
+    400312: pTorus2
+    400314: pTorus3
+    400316: pTorus4
+    400318: pTorus5
+    400320: pTorus6
+    400322: Shapka_02
+    400324: Should_L
+    400326: Should_R
+    400328: Spine_Root
+    400330: Teeth1
+    400332: Uxa_L_02
+    400334: Uxa_L_03
+    400336: Uxa_L_04
+    400338: Uxa_R_02
+    400340: Uxa_R_03
+    400342: Uxa_R_04
+    400344: Xvost_02
+    400346: Xvost_03
+    400348: Xvost_04
+    400350: Xvost_05
+    2300000: pasted__pCube1
+    2300002: pasted__pCube1 1
+    2300004: pasted__pCube2
+    2300006: pasted__pCube2 1
+    2300008: pasted__pCube3
+    2300010: pasted__pCube3 1
+    2300012: pasted__pCube4
+    2300014: pasted__pCube4 1
+    2300016: pasted__pCube5
+    2300018: pasted__pCube5 1
+    2300020: pasted__pCube6
+    2300022: pasted__pCube7
+    2300024: pasted__pCube8
+    2300026: pSphere1
+    2300028: pSphere2
+    2300030: pTorus1
+    2300032: pTorus2
+    2300034: pTorus3
+    2300036: pTorus4
+    2300038: pTorus5
+    2300040: pTorus6
+    3300000: pasted__pCube1
+    3300002: pasted__pCube1 1
+    3300004: pasted__pCube2
+    3300006: pasted__pCube2 1
+    3300008: pasted__pCube3
+    3300010: pasted__pCube3 1
+    3300012: pasted__pCube4
+    3300014: pasted__pCube4 1
+    3300016: pasted__pCube5
+    3300018: pasted__pCube5 1
+    3300020: pasted__pCube6
+    3300022: pasted__pCube7
+    3300024: pasted__pCube8
+    3300026: pSphere1
+    3300028: pSphere2
+    3300030: pTorus1
+    3300032: pTorus2
+    3300034: pTorus3
+    3300036: pTorus4
+    3300038: pTorus5
+    3300040: pTorus6
+    4300000: nurbsToPoly4
+    4300002: nurbsToPoly5
+    4300004: nurbsToPoly6
+    4300006: nurbsToPoly1
+    4300008: nurbsToPoly2
+    4300010: nurbsToPoly3
+    4300012: polySurface188
+    4300014: polySurface257
+    4300016: polySurface363
+    4300018: polySurface309
+    4300020: polySurface307
+    4300022: polySurface293
+    4300024: polySurface311
+    4300026: polySurface356
+    4300028: polySurface355
+    4300030: polySurface354
+    4300032: polySurface360
+    4300034: polySurface361
+    4300036: pasted__pCube1
+    4300038: pasted__pCube2
+    4300040: pasted__pCube3
+    4300042: pasted__pCube4
+    4300044: pasted__pCube5
+    4300046: pasted__pCube6
+    4300048: pasted__pCube1
+    4300050: pasted__pCube2
+    4300052: pasted__pCube3
+    4300054: pasted__pCube4
+    4300056: pasted__pCube5
+    4300058: pasted__pCube7
+    4300060: pasted__pCube8
+    4300062: pSphere1
+    4300064: pSphere2
+    4300066: pTorus1
+    4300068: pTorus2
+    4300070: pTorus3
+    4300072: pTorus4
+    4300074: pTorus5
+    4300076: pTorus6
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: nurbsToPoly1
+    13700002: nurbsToPoly2
+    13700004: nurbsToPoly3
+    13700006: nurbsToPoly4
+    13700008: nurbsToPoly5
+    13700010: nurbsToPoly6
+    13700012: polySurface188
+    13700014: polySurface257
+    13700016: polySurface293
+    13700018: polySurface307
+    13700020: polySurface309
+    13700022: polySurface311
+    13700024: polySurface354
+    13700026: polySurface355
+    13700028: polySurface356
+    13700030: polySurface360
+    13700032: polySurface361
+    13700034: polySurface363
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
